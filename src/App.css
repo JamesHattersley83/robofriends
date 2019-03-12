@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Alien Robot Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Alien Robot Regular"), url("Alien Robot.woff") format("woff");
+}
+
+h1 {
+  font-family: "Alien Robot Regular";
+  font-weight: 600;
+  color: darkblue;
+}
