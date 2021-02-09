@@ -1,5 +1,5 @@
 # Robofriends
-A single page application where the user can search for robot friends among all. 
+A single page application built using React. The user can search for robot friends. 
 
 This application created as part of Andrei Neagoie's Web Developer 2018 course on Udemy.
 
